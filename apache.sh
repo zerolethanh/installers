@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#install
+#install apache
 yum -y install httpd
 
 #start & enable apache
